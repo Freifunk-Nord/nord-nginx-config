@@ -1,0 +1,1 @@
+/opt/nord-nginx-config/conf.d
